@@ -1,7 +1,7 @@
 package go_module
 
 func SayHi() string {
-	return "Hello"
+	return "Hello Sayang"
 }
 
 // git mod init github.com/albertanugerah/go-module
