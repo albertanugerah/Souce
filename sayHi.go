@@ -1,6 +1,6 @@
 package go_module
 
-func SayHi() string {
+func SayHi(name string) string {
 	return "Hello Sayang"
 }
 
